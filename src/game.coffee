@@ -49,7 +49,7 @@ class Game
       hi_score         : 20000,
       p1_score         : 0,
       p2_score         : 0,
-      p1_level         : 1,
+      p1_level         : 10,
       p2_level         : 1,
       p1_ship          : false,
       p2_ship          : false,
